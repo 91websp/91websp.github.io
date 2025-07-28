@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'npddjon.cc',
+          'pyenuzfg.top',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
