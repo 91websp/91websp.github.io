@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'mpbnhtan.top',
+          'uziolksl.cc',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
