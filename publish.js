@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'uziolksl.cc',
+          'rkbovwu.org',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
