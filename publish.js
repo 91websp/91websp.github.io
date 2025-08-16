@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'rkbovwu.org',
+          'cqjddbu.cc',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
