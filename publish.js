@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'sjpbvtt.xyz',
+          'azgubpo.xyz',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
