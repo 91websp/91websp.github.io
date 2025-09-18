@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'tansoemm.xyz',
+          'igevngnz.com',
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
