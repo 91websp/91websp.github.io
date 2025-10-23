@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'mjnpjdn.cc',	    
+          'wupuwba.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
