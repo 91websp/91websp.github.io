@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'jsbhajpo.cc',	    
+          'daokiap.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
