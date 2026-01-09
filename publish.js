@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'vcdlucmb.cc',	    
+          'fungldk.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
