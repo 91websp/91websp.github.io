@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'sbefeud.xyz',	    
+          'adtvlule.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
