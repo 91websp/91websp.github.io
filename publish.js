@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'gkzvznw.xyz',	    
+          'mazetnrf.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
