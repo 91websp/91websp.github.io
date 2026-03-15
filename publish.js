@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'zinrefdz.cc',	    
+          'ivjnaxgv.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
