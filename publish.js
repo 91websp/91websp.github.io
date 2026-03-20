@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'xipalpk.com',	    
+          'knctvbq.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
