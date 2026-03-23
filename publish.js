@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'wadachwz.cc',	    
+          'blxnavx.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
