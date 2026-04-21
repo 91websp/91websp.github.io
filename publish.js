@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'idmhlzt.cc',	    
+          'xokvioo.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
