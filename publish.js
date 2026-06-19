@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'bkwavpns.cc',	    
+          'kolvoymi.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
