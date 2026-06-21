@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'kolvoymi.cc',	    
+          'fosvusfjp.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
