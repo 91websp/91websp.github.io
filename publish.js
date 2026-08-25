@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'nzregaur.com',	    
+          'phpkcpfka.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
