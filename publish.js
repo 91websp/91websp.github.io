@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'imdjezyll.cc',	    
+          'thedwuuv.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
