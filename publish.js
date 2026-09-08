@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'oqksihwin.cc',	    
+          'srssytin.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
