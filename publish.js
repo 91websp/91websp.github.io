@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'odxajsbv.cc',	    
+          'heilloew.com',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
