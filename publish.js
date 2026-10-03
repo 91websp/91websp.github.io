@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'fmzboadh.cc',	    
+          'cairkpiw.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
