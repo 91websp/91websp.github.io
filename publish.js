@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-          'dbkjupwl.cc',	    
+          'kmbrwsxx.cc',	    
 ];
                                                                                                                   
 var JumpPage="https://91sos.com";
